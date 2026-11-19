@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "db:migrate": "tsx scripts/migrate.ts",
-    "format": "echo 'no formatter configured'"
+    "format": "echo 'no formatter configured'",
+    "db:seed": "tsx scripts/seed-local.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

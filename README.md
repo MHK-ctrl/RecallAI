@@ -16,7 +16,9 @@ Upload once, then find anything with natural language — and open the exact pag
 
 </div>
 
-> **LIVE DEMO →** {{LIVE_URL}}
+> **LIVE DEMO →** https://recallai-ten.vercel.app
+>
+> **INTERACTIVE DEMO (no account) →** https://recallai-ten.vercel.app/demo
 >
 > **REPOSITORY →** https://github.com/MHK-ctrl/RecallAI
 

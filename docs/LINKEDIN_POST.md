@@ -1,8 +1,13 @@
 # LinkedIn announcement
 
-Status: ready to publish. Publish from the account signed in to Brave Browser and
-attach `docs/screenshots/ask.png` (a real screenshot of the running app with the
-synthetic sample library).
+Status: **published** on 19 November 2026 from the account signed in to Brave
+Browser (Mohammad Hamza Khan).
+
+Published post: https://www.linkedin.com/feed/update/urn:li:activity:7528812872034885633/
+
+Media: none attached. LinkedIn's composer in this session exposed no media
+control and no file input, so the post went out as text with both links. A real
+screenshot of the running app is kept at `docs/screenshots/ask.png`.
 
 ---
 
